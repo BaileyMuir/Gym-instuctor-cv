@@ -2,13 +2,14 @@
     margin: 0;
     padding: 0;
     border: none;
-    text-align: center;
 }
 
-h1 {
-    padding: 15px;
+#main-body{
+    display: inline-block;
+    text-align: left;
+    padding: 20px 40px;
 }
 
-p {
-    padding: 10px 20px;
+#icon {
+    position: absolute;
 }
