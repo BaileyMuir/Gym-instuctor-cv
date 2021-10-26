@@ -4,6 +4,27 @@
     border: none;
 }
 
+header {
+    height: 100px;
+}
+
+header h1{
+    display: inline;
+    float: left;
+    padding: 20px 0 20px 20px;
+}
+
+#main-nav li{
+    display: inline-block;
+    padding: 0 10px;
+}
+
+header nav{
+    display: inline;
+    float: right;
+    padding: 20px 20px 20px 0;
+}
+
 #main-body{
     display: inline-block;
     text-align: left;
