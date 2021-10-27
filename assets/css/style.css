@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&family=Zen+Antique&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -29,6 +31,9 @@ header nav{
     display: inline-block;
     text-align: left;
     padding: 0 20vw;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 500;
+    font-size: 17px;
 }
 
 .target-area {
@@ -40,9 +45,18 @@ header nav{
 table {
     width: 60vw;
     padding: 20px;
+    border: solid black;
 }
 
+th {
+    text-decoration: underline black 1px;
+}
 td {
     width: 10vw;
     height: 50px;
+}
+
+.heading-style{
+    font-family: 'Zen Antique', serif;
+    text-decoration: underline 2px rgb(17, 17, 17);
 }
