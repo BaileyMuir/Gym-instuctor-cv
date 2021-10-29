@@ -149,3 +149,8 @@ li i:hover {
     color: blue;
     cursor: pointer;
 }
+
+img {
+    width: 50vw;
+    padding: 0 5vw;
+}
