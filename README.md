@@ -10,3 +10,9 @@
 - https://dictionary.cambridge.org/dictionary/english/set
 - https://dictionary.cambridge.org/dictionary/english/hypertrophy
 - the rest was thanks to active iq and west kent collage for teaching me the relevent infomation during my time with them.
+
+## image source
+
+- http://www.saptstrength.com/blog/2014/10/16/triathlete-strength-training-primer-part-2
+![deployed](https://github.com/BaileyMuir/Gym-instuctor-cv/blob/main/assets/images/Rep_Max-Continuum.jpg)
+the image above does not belong to me but i have used it for the purpose of educating others and have refrenced it above.
