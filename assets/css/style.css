@@ -160,6 +160,10 @@ img {
     font-size: 18px;
 }
 
+#help:hover {
+    color: blue;
+}
+
 @media screen and (max-width: 768px){
 
     header ul {
@@ -251,7 +255,7 @@ img {
 }
 
 /* min size 320px */
-@media screen and (max-width: 454px){
+@media screen and (max-width: 460px){
 
     header h1 {
         padding: 10px 0 0 90px;
@@ -304,6 +308,11 @@ img {
 
     footer {
         height: 80px;
+    }
+
+    .help-ul li {
+        margin: 10px;
+        font-size: 12px;
     }
 
 }
